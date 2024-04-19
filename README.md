@@ -2,9 +2,6 @@
 ![Ronny's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebnoether&show_icons=true&theme=transparent)
 <br><br>
 
-![Snake animation](https://github.com/rebnoether/rebnoether/blob/output/github-contribution-grid-snake.svg)
-
-
 ## Languages and Tools
 <table align="center">
   <tr>
