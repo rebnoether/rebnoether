@@ -2,7 +2,7 @@
 ![Ronny's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebnoether&show_icons=true&theme=transparent)
 <br><br>
 
-## Teckstack
+## Techstack
 <table align="center">
   <tr>
     <td align="center" width="96">
