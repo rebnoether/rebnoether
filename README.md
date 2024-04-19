@@ -1,5 +1,8 @@
+## About
 Crafting digital experiences and brand identities, focusing on strategy, design, and technology.
-
+<br><br>
+![Ronny's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebnoether&show_icons=true&theme=transparent)
+<br><br>
 
 ## Languages and Tools
 <table align="center">
