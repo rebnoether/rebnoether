@@ -1,7 +1,3 @@
-## About
-![Ronny's GitHub stats](https://github-readme-stats.vercel.app/api?username=rebnoether&show_icons=true&theme=transparent)
-<br><br>
-
 ## Techstack
 <table align="center">
   <tr>
