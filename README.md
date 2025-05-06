@@ -1,1 +1,1 @@
-![Cover](./assets/cover.png)
+![Cover](./assets/cover-ronny-ebnoether.png)
